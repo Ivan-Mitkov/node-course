@@ -42,7 +42,7 @@ hbs.registerPartials(__dirname+'/views/partials');
 //        like:[
 //            'Hiking',
 //            'Learning',
-//            'Anal sex'
+//            
 //        ]
 //    })
 // });
