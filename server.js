@@ -66,8 +66,8 @@ app.get('/about',(req,res)=>{
 
 app.get('/other',(req,res)=>{
     res.render('other.hbs',{
-        pageTitle:'Other page',
-        welcome:"Welcome to my other page"
+        pageTitle:'Portfolio page',
+        welcome:"Welcome to my portfolio page"
     });
 })
 
